@@ -152,5 +152,12 @@ print("Saved: mlp_mnist_model.h5 and mlp_mnist_best.h5")
 
 ## Output:
 
+<img width="1337" height="496" alt="image" src="https://github.com/user-attachments/assets/3366fe27-5580-4708-abae-66fbfb87725d" />
+<img width="838" height="733" alt="image" src="https://github.com/user-attachments/assets/e26c7143-5586-43d4-8eb2-ebc775ebff47" />
+<img width="715" height="654" alt="image" src="https://github.com/user-attachments/assets/ee3313f5-e082-46bd-b644-70b860b50151" />
+<img width="656" height="678" alt="image" src="https://github.com/user-attachments/assets/3d33a2c4-4b62-414d-8a26-c7eac97d07d0" />
+
+
+
 
 
